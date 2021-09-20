@@ -1,0 +1,46 @@
+#container{
+    width: fit-content;
+    border: 1px solid gainsboro;
+    padding: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#container p{
+    margin-top: 20px;
+}
+
+form p{
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#personal p{
+    margin-bottom: 0px;;
+}
+
+#personal div div input{
+    width: 100%;
+}
+
+
+#programacion div div{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+#experiencia div ul{
+    max-width: 500px;
+}
+
+#coments{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
